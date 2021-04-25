@@ -14,9 +14,7 @@
 
 ####  My Favourite movie star
 
-![](/test.jpg)
-
-
+![see?](./test.jpg)
 
 #### img from web
 
